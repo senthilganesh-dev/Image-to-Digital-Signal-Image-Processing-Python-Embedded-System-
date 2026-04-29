@@ -1,0 +1,2 @@
+# Image-to-Digital-Signal-Image-Processing-Python-Embedded-System-
+In this project, an input image is processed and converted into its digital representation using OpenCV and NumPy. These libraries are utilized to analyze and transform the image into a binary format. The processed data is then transmitted using PyFirmata, which enables the binary output to be represented as light signals through Arduino.
